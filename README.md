@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Anindita and I am new to coding. I am currently enrolled in an online Data Science Degree Course. Living in Kolkata. In my leasuire time I like to do painting.
+
 <!--
 **aninditadev/aninditadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
